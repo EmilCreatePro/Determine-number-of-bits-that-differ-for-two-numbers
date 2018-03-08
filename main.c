@@ -32,5 +32,9 @@ int main()
 {
     unsigned int a = 4713, b = 2197;
     printf("Number of bits that differ for %u and %u are %d", a,b, countBitDiff(a,b));
+    //Output:
+    //Number of bits that differ for 4713 and 2197 are 9
+
+
     return 0;
 }
