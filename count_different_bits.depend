@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520537646 source:c:\users\mitu\desktop\my stuff\proiecte codeblocks\count_different_bits\main.c
+	<stdio.h>
+	<stdlib.h>
+
